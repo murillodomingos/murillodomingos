@@ -1,4 +1,4 @@
-## Data Scientist | BS in Data Science at USP
+## Data Scientist | Undergraduate in Data Science at USP
 
 Hey! I’m Murillo Almeida, a passionate data scientist turning data into actionable insights. With a strong foundation in Python and statistical analysis, I specialize in building data-driven solutions that empower decision-making.
 
