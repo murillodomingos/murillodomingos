@@ -7,16 +7,16 @@ Hey! I’m Murillo Almeida, a passionate data scientist turning data into action
 
 - Statistical Inference & Machine Learning: Experienced in applying statistical methods and machine learning techniques to solve real-world problems, with a focus on regression analysis and model building.
 
-- Database Development & Web Scraping: Skilled in creating robust databases through web scraping and data extraction, ensuring clean, well-structured datasets for analysis.
+- Database Development: Skilled in creating robust databases through data extraction, ensuring clean, well-structured datasets for analysis.
 
 - Collaborative Problem Solving: Proven ability to work in teams, meeting deadlines and delivering high-quality results in dynamic environments.
 
 - Technical Proficiency: Proficient in Python, R, SQL, and Java, with hands-on experience in data manipulation, statistical modeling, and data visualization.
 
-- My skill set includes Python, Pandas, Scikit-learn, Power BI, SQL, and web scraping techniques, all geared towards delivering impactful data solutions.
+- My skill set includes Python, Pandas, Scikit-learn, Power BI, SQL, all geared towards delivering impactful data solutions.
 
 ### Career Goals:
-To continue advancing my expertise in data science, tackling complex challenges in machine learning and data engineering.
+To continue advancing my expertise in data science, tackling complex challenges in machine learning.
 
 To collaborate with like-minded professionals in driving data innovation and creating impactful data solutions.
 
